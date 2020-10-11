@@ -1,1 +1,3 @@
-# sample-maven-job1
+# maven-project
+
+Simple Maven Project for Devops
